@@ -2,8 +2,6 @@ package com.example.eadtest.controller;
 
 import com.example.eadtest.entity.Products;
 import com.example.eadtest.entity.Sales;
-import com.example.eadtest.respository.ProductRepository;
-import com.example.eadtest.respository.SaleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
